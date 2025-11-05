@@ -1,3 +1,3 @@
 # TCC_SENAI_2025
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://github.com/JuanOliveiran1/TCC_SENAI_2025/blob/main/TCC_v1.gif" width="600" height="400" />
